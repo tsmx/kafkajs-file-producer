@@ -1,0 +1,17 @@
+{
+  "name": "kafkajs-file-producer",
+  "version": "1.0.0",
+  "description": "KafkaJS file producer example",
+  "exports": "./app.js",
+  "type": "module",
+  "author": "Sebastian Stricker <sebastian.stricker@exxeta.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "globals": "^15.9.0"
+  }
+}
