@@ -4,7 +4,7 @@ Producer example for the [Using Apache Kafka for transferring files](https://tsm
 
 Uses the [KafkaJS](https://kafka.js.org/) library for Kafka client functionality.
 
-# Usage
+## Usage
 
 First, [get Kafka up & running](https://tsmx.net/using-apache-kafka-for-transferring-files/#Getting_Kafka_up_running) and [create an appropriate topic](https://tsmx.net/using-apache-kafka-for-transferring-files/#Creating_a_topic) as described in the tutorial.
 
