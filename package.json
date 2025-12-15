@@ -6,6 +6,9 @@
   "type": "module",
   "author": "Sebastian Stricker <sebastian.stricker@exxeta.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "true"
+  },
   "dependencies": {
     "kafkajs": "^2.2.4"
   },
